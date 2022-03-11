@@ -72,7 +72,7 @@ button  {
     position: absolute;
     margin-top: 70px;
     margin-left: 190px;
-    background-image: url("/img/donkey.PNG");
+    background-image: url("../img/donkey.PNG");
     width: 180px;
     height: 115px;
     background-size: 180px 120px;
@@ -171,7 +171,7 @@ h3  {
     width: 200px;
     height: 100px;
     margin-top: 235px;
-    background-image: url("/img/nintendo.PNG");
+    background-image: url("../img/nintendo.PNG");
     background-size: 200px 100px;
     background-repeat: no-repeat;
 }
